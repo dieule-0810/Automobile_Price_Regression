@@ -1,0 +1,10 @@
+# Các thư mục chứa môi trường ảo (Virtual Environments)
+venv/
+.venv/
+env/
+ENV/
+
+# Thư mục tạm của Python khi chạy code
+__pycache__/
+*.py[cod]
+*$py.class
