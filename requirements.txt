@@ -1,0 +1,10 @@
+# Phiên bản tối thiểu hỗ trợ Python 3.14
+pandas>=2.3.3
+numpy>=2.3.0
+scikit-learn>=1.7.0
+matplotlib>=3.10.0
+seaborn>=0.13.0
+
+# SHAP (giải thích mô hình)
+# Nếu cài lỗi, có thể bỏ dòng này: code sẽ tự bỏ qua phần SHAP.
+shap>=0.46.0
